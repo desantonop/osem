@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-16T12:35:34.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="u4RTFsW2WD4r-RFfqj14" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-16T12:41:08.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="lgHcMvQ8v9ioMQFA1-DT" version="14.3.2" type="github">
   <diagram id="Ogkp_swHulKQqis2DmBm" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -312,15 +312,15 @@
           <mxGeometry x="90" y="650" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DVdg87XbvVediQlpimdU-94" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="720" width="110" height="50" as="geometry" />
+          <mxGeometry x="80" y="710" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DVdg87XbvVediQlpimdU-95" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="780" width="110" height="50" as="geometry" />
+          <mxGeometry x="95" y="770" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DVdg87XbvVediQlpimdU-96" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="840" width="110" height="50" as="geometry" />
+          <mxGeometry x="327.5" y="840" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DVdg87XbvVediQlpimdU-98" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="DVdg87XbvVediQlpimdU-98" value="" style="endArrow=classic;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DVdg87XbvVediQlpimdU-95">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="780" as="sourcePoint" />
             <mxPoint x="390" y="570" as="targetPoint" />
@@ -344,9 +344,9 @@
             <mxPoint x="380" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DVdg87XbvVediQlpimdU-102" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="DVdg87XbvVediQlpimdU-71">
+        <mxCell id="DVdg87XbvVediQlpimdU-102" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.782;exitY=0.08;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DVdg87XbvVediQlpimdU-113" target="DVdg87XbvVediQlpimdU-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="840" as="sourcePoint" />
+            <mxPoint x="240" y="830" as="sourcePoint" />
             <mxPoint x="360" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -366,13 +366,13 @@
           <mxGeometry x="120" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DVdg87XbvVediQlpimdU-107" value="ιστορικό" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="735" width="60" height="20" as="geometry" />
+          <mxGeometry x="110" y="725" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DVdg87XbvVediQlpimdU-108" value="αρχειοθέτηση" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="795" width="70" height="20" as="geometry" />
+          <mxGeometry x="115" y="785" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DVdg87XbvVediQlpimdU-109" value="Υπογραφή" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="855" width="60" height="20" as="geometry" />
+        <mxCell id="DVdg87XbvVediQlpimdU-109" value="Αποστολή προς υπογραφή" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="855" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DVdg87XbvVediQlpimdU-110" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DVdg87XbvVediQlpimdU-96">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -390,6 +390,30 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="355" y="970" as="sourcePoint" />
             <mxPoint x="740" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-113" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="825" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-114" value="Υπογραφή" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="840" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-115" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;" edge="1" parent="1" target="DVdg87XbvVediQlpimdU-96">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="225" y="855" as="sourcePoint" />
+            <mxPoint x="315" y="855.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-116" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="725" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-117" value="αναίρεση υπογραφής" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="740" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-118" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;entryX=0.973;entryY=0.36;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="DVdg87XbvVediQlpimdU-113">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="354.5" y="770" as="sourcePoint" />
+            <mxPoint x="354.5" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
