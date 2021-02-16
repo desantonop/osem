@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-16T12:41:08.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="lgHcMvQ8v9ioMQFA1-DT" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-16T12:45:17.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="4VIHUVhFIKXl33WMfdBj" version="14.3.2" type="github">
   <diagram id="Ogkp_swHulKQqis2DmBm" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -415,6 +415,31 @@
             <mxPoint x="354.5" y="770" as="sourcePoint" />
             <mxPoint x="354.5" y="840" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-119" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="390" y="890" as="sourcePoint" />
+            <mxPoint x="400" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-120" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DVdg87XbvVediQlpimdU-127">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="420.98" y="1000" as="sourcePoint" />
+            <mxPoint x="524.0121570855808" y="1006.5307106423938" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-123" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="950" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-124" value="μετατροπή σε εξερχόμενο" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="965" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-127" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="1040" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-128" value="δημοσίευση σε ΔΙΑΥΓΕΙΑ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="1055" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
