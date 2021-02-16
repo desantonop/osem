@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-16T12:30:14.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="jrLXzHKyJvyOqTvFk1jh" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-16T12:34:38.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="_QWht4FJ9xglOqfI3VDU" version="14.3.2" type="github">
   <diagram id="Ogkp_swHulKQqis2DmBm" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -303,6 +303,78 @@
         </mxCell>
         <mxCell id="DVdg87XbvVediQlpimdU-90" value="Υπάλληλος χρήστης" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="186.25" width="50" height="53.75" as="geometry" />
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-91" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="525" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-92" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="585" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-93" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="650" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-94" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="720" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-95" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="780" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-96" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="840" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-98" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="780" as="sourcePoint" />
+            <mxPoint x="390" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-99" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="610" as="sourcePoint" />
+            <mxPoint x="360" y="562" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-100" value="" style="endArrow=classic;html=1;entryX=0.22;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="DVdg87XbvVediQlpimdU-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="670" as="sourcePoint" />
+            <mxPoint x="250" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-101" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="730" as="sourcePoint" />
+            <mxPoint x="380" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-102" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="DVdg87XbvVediQlpimdU-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="840" as="sourcePoint" />
+            <mxPoint x="360" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-103" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="DVdg87XbvVediQlpimdU-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="550" as="sourcePoint" />
+            <mxPoint x="340" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-104" value="αναλυτική προβολή" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="530" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-105" value="επεξεργασία" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="600" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-106" value="γνωστοποίηση" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-107" value="ιστορικό" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="735" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-108" value="αρχειοθέτηση" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="795" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DVdg87XbvVediQlpimdU-109" value="Υπογραφή" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="855" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
